@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 //10:30 10:42 - 12
 //10.:50 10:59 - 09
-
+//11:24 11:30 - 06 >> 27 min
 public class POMSearch {
 	
 	public WebDriver driver=null;
